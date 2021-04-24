@@ -1,0 +1,13 @@
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

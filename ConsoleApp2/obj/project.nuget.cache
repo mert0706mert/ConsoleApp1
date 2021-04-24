@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pFdlLRNqQ8KAVd3i6DzL/Rhu0dn7nRVtV247JPp527fgaAomQLhjmNN5g9xnMYu6ZYZpMbxhqOn+cc9k6dTMXg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\MertCetinkaya\\MertCetinkaya\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mert-\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mert-\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
