@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dO0XfLD3AnxxeyfaBcA6AiwenWh3B2g10AKDma36y0ce/sIb8AxY3UaojAFpEwGIx/7khuKYvlsZehtT3sRuyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\MertCetinkaya\\MertCetinkaya\\ConsoleApp1\\Koleksiyonlar\\Koleksiyonlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mert-\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mert-\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

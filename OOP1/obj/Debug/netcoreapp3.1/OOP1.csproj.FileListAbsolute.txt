@@ -1,0 +1,13 @@
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+D:\Downloads\MertCetinkaya\MertCetinkaya\ConsoleApp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache
